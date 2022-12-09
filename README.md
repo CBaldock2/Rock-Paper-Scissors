@@ -11,8 +11,10 @@ To play, when the prompt opens chose an r, p, or s and push okay. The computer w
 ## Credits
 N/A
 ## Screenshot
+![rock paper scissors page](./images/Rock%20Paper%20Scissors.png)
 
 ## Link
+<a href = "(https://cbaldock2.github.io/Rock-Paper-Scissors/)"> Rock Paper Scissors</a>
 
 ## License
  Please refer to the license in the repo.

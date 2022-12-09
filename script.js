@@ -8,7 +8,7 @@ function game() {
         return Math.floor(Math.random() * max)
     };
     
-    var computerChoice = randomNumber(3);
+    var computerChoice = randomNumber(2);
 
     
 
